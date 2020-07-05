@@ -16,3 +16,6 @@ Starbucks sends out an offer to users of the mobile app. An offer can be merely 
 
 ## Insights 
 
+
+### Reference
+[The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
